@@ -1,0 +1,19 @@
+{
+  "name": "handlebars",
+  "version": "0.0.0",
+  "description": "handlebars tast",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarusho/handlebars.git"
+  },
+  "author": "tarutani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarusho/handlebars/issues"
+  },
+  "homepage": "https://github.com/tarusho/handlebars#readme"
+}
