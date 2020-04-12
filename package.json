@@ -15,5 +15,19 @@
   "bugs": {
     "url": "https://github.com/tarusho/handlebars/issues"
   },
-  "homepage": "https://github.com/tarusho/handlebars#readme"
+  "homepage": "https://github.com/tarusho/handlebars#readme",
+  "devDependencies": {
+    "assemble": "^0.24.3",
+    "gulp": "^4.0.2",
+    "gulp-compile-handlebars": "^0.6.1",
+    "gulp-extname": "^0.2.2",
+    "gulp-handlebars": "^5.0.2",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-livereload": "^4.0.2",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-webserver": "^0.9.1",
+    "path": "^0.12.7",
+    "require-dir": "^1.2.0"
+  }
 }

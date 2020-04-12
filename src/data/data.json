@@ -1,7 +1,12 @@
 {
-   pagename:{
-    h1:"h1にこれが入ります",
-    h2:"h2にこれが入ります",
-    description:"descriptionにコレが入ります。"
+   "pagename":{
+    "h1":"データからの大見出し",
+    "h2":"データからの見出し",
+    "description":"descriptionにコレが入ります。"
+   },
+   "outline":{
+    "h1":"アウトライン",
+    "h2":"アウトライン2",
+    "description":"descriptionにコレが入ります。"
    }
 }
